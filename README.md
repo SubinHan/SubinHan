@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Subin 👋
 
+I am software engineering student in Jeonbuk National University. 
+
+- 🔭 I’m currently performing research about **Test Covergae Measurement in Software Product Line Testing.**
+
+<summary><h2>Another side of me?</h2></summary>
+- I'm also interested in Video Editing. <a href="https://www.youtube.com/channel/UCgdYMog5A9LlbHT4uJSVLzw" rel="me">Here</a>'s my YouTube.
+- 
 <!--
 **SubinHan/SubinHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
