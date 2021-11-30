@@ -6,6 +6,10 @@ I am software engineering student in Jeonbuk National University.
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinHan&hide=html,assembly,makefile&title_color=0F0F0F&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 <h2>Another side of me?</h2>
 - I'm also interested in Video Editing. <a href="https://www.youtube.com/channel/UCgdYMog5A9LlbHT4uJSVLzw" rel="me">Here</a>'s my YouTube.
 <!--
