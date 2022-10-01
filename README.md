@@ -10,8 +10,15 @@ I am software engineering student in Jeonbuk National University.
 
 <br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangenius123)](https://solved.ac/hangenius123/)
+
+<br/>
+
+
 <h2>Another side of me?</h2>
 - I'm also interested in Video Editing. <a href="https://www.youtube.com/channel/UCgdYMog5A9LlbHT4uJSVLzw" rel="me">Here</a>'s my YouTube.
+
+
 <!--
 **SubinHan/SubinHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
