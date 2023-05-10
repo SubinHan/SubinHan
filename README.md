@@ -1,8 +1,7 @@
 ### Hi, I'm Subin 👋
 
-I am software engineering student in Jeonbuk National University. 
-
 - 🔭 I’m currently performing research about **Test Covergae Measurement in Software Product Line Testing.**
+- 🌱 I’m currently learning about Computer Graphics and DirectX 12 to develop a game.
 
 <br/>
 
