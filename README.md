@@ -1,7 +1,7 @@
 ### Hi, I'm Subin 👋
 
 - 🔭 I’m currently performing research about **Test Covergae Measurement in Software Product Line Testing.**
-- 🌱 I’m currently learning about **Game Engine** and **DirectX 12** to develop a game.
+- 🌱 I’m currently learning about **Game Development**
 
 <br/>
 
